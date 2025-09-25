@@ -33,6 +33,7 @@ A curious developer passionate about Artificial Intelligence & Web Development.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cosmo-klara&show_icons=true&theme=radical&title_color=FFE652&text_color=71DFE7&hide_border=1&border_radius=8 " width="60%" alt="Cosmo-klara GitHub Stats">
+
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zyh3699&theme=radical" width="40%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zyh3699&theme=radical" width="40%" />
