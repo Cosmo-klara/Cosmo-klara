@@ -1,6 +1,6 @@
 <div align="center">
 
-![][banner]
+![](./README.assets/banner.webp)
 
 <h1 align="center">Hi there, I'm Cosmo</h1>
 
@@ -42,8 +42,6 @@ A curious developer passionate about Artificial Intelligence & Web Development.
 
 
 <!-- SHIELD GROUP -->
-
-[banner]: ./README.assets/banner.webp
 
 [frontend-vue]: https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logoColor=white&logo=vuedotjs
 [frontend-react]: https://img.shields.io/badge/-React-61DAFB?style=flat-square&logoColor=white&logo=react
