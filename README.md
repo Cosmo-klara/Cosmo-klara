@@ -27,7 +27,7 @@ A curious developer passionate about Artificial Intelligence & Web Development.
 
 ### Blogs & Contributions
 
-> You can checkout my blog [here]()[not ready yet].
+> You can checkout my blog [here](https://mutsumi.space/blog)[not ready yet].
 
 ### My GitHub Stats
 
