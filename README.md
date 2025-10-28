@@ -6,7 +6,7 @@
 
 A curious developer passionate about Artificial Intelligence & Web Development.
 
-[![][social-bilibili-shield]][social-bilibili-link] [![][social-email-shield]][social-email-link]
+[![][social-bilibili-shield]][social-bilibili-link] [![][social-email-shield]][social-email-link] [![][social-blog-shield]][social-blog-link]
 
 ![][split]
 
@@ -74,6 +74,9 @@ A curious developer passionate about Artificial Intelligence & Web Development.
 [social-bilibili-link]: https://space.bilibili.com/505743239
 [social-bilibili-shield]: https://img.shields.io/badge/-Bilibili-FB7299?style=flat-square&logoColor=white&logo=bilibili
 
+[social-blog-link]: https://mutsumi.space/blog
+[social-blog-shield]: https://img.shields.io/badge/-Blog-4FC08D?style=flat-square&logoColor=white&logo=blogger
+
 [social-email-link]: wincomso9@gmail.com
 [social-email-shield]: https://img.shields.io/badge/-Email-EA4335?style=flat-square&logoColor=white&logo=gmail
-
+   
