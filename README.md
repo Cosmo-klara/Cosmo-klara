@@ -71,8 +71,8 @@ A curious developer passionate about Artificial Intelligence & Web Development.
 
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 
-[social-bilibili-link]: https://space.bilibili.com/505743239
-[social-bilibili-shield]: https://img.shields.io/badge/-Bilibili-FB7299?style=flat-square&logoColor=white&logo=bilibili
+<!-- [social-bilibili-link]: https://space.bilibili.com/505743239 -->
+<!-- [social-bilibili-shield]: https://img.shields.io/badge/-Bilibili-FB7299?style=flat-square&logoColor=white&logo=bilibili -->
 
 [social-email-link]: wincomso9@gmail.com
 [social-email-shield]: https://img.shields.io/badge/-Email-EA4335?style=flat-square&logoColor=white&logo=gmail
