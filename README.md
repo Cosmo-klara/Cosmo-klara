@@ -6,7 +6,9 @@
 
 A curious developer passionate about Artificial Intelligence & Web Development.
 
-[![][social-bilibili-shield]][social-bilibili-link] [![][social-email-shield]][social-email-link] [![][social-blog-shield]][social-blog-link]
+<!-- [![][social-bilibili-shield]][social-bilibili-link] [![][social-email-shield]][social-email-link] [![][social-blog-shield]][social-blog-link] -->
+
+[![][social-email-shield]][social-email-link] [![][social-blog-shield]][social-blog-link]
 
 ![][split]
 
